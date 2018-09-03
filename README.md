@@ -12,3 +12,6 @@ Parts List:
   - 20x4 Character LCD with I2C serial backpack
   - (2) TTP223 Capacitive Touch Switch
   - Assorted bolts, springs, and other hardware
+
+
+Google Photos Link: https://photos.app.goo.gl/8MBN9eY2s5ktbLVa8
